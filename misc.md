@@ -2,7 +2,7 @@
 
 Choose your own adventure!  Each of these assignments is worth up to 10 points.
 The total (capped at 100) is counted as a homework grade.  The first three
-assignemnts can be completed at any time BEFORE the last week of classes, but
+assignments can be completed at any time BEFORE the last week of classes, but
 the other miscelaneous assignments have a specific due date.
 
 Some assignments will have specific requirements.  However, for most events, use
