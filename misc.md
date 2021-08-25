@@ -16,7 +16,7 @@ specific formatting requirements:
 
 * What did you learn?
 * Were there any algorithms involved? (Even if not explicitly discussed).
-* What is a piece of advise that you took away?
+* What is a piece of advice that you took away?
 * Did an audience member ask a question that you particularly liked or disliked?
 * Is there a question that you wish you could have asked but didn't?
 * If related to the event, what were you thinking about as you were leaving?
