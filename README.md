@@ -70,7 +70,7 @@ The folders in this repository contain all materials for this class.
 - lec_notes: Copies of lecture notes and board photos. 
 - slides: Source for my Beamer slides (which only happens occasionally).
 - README.md: the course syllabus
-- misc.md: List of Miscelaneous assignments (see grading)
+- misc.md: List of Miscellaneous assignments (see grading)
 
 The schedule is at the bottom of this Markdown file.  If you want to learn more
 about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).
@@ -97,7 +97,7 @@ Your grade for this class will be determined by:
   assignments will not be accepted.  The lowest two homework grades will be
   dropped.  The submission should be typeset in LaTex, and submitted as a PDF
   both in D2L and Gradescope. Each problem should be started on a fresh page.
-* The [miscelaneous assignments](misc.md) will be worth up to 10 points each,
+* The [miscellaneous assignments](misc.md) will be worth up to 10 points each,
   and the total sum will count as a HW grade (max grade: 100).
 * Project: Groups will be assigned.  You will be creating a video presentation
   of a "modern" algorithm.
