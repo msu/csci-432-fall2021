@@ -1,4 +1,4 @@
-# CSCI 432: Advanced Algorithm Topicss, Fall 2021 #
+# CSCI 432: Advanced Algorithm Topics, Fall 2021 #
 
 This repository is for class materials for CSCI 432 in Fall 2021, taught by Prof. Fasy.
 
