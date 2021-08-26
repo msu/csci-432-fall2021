@@ -263,6 +263,10 @@ Each week, we assign:
 - Reading: Chapter 0 
 - Additional Reading: [Induction Review](https://www.cs.montana.edu/brittany/teaching/algorithms/15_fall/docs/induction.pdf)
 
+### Week 17 (Finals Week)
+- We meet 15 December 14:00-15:50.
+- See [Finals Week Schedule](https://www.montana.edu/registrar/Schedules.html)
+  for university policies.
 --- 
 
 This syllabus was created, using wording from previous courses taught by myself, as well as my colleagues.  Thanks all!
