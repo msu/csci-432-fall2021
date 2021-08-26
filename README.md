@@ -83,7 +83,7 @@ materials for this class.  See the resources section below for forking direction
 
 To clone this repo:
 ```
-$ git clone https://bitbucket.org/msu-cs/csci-432-fa19.git
+$ git clone https://github.com/msu/csci-432-fall2021
 ```
 
 ## Grading
