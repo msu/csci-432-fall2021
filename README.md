@@ -42,7 +42,11 @@ algorithms. In this course, students will:
 ## When and Where?
 
 When? MWF 15:10-16:00
-Where? Roberts 208 
+Where? Roberts 218 
+
+Note: if necessary (e.g., if the instructor must quarantine or self-isolte),
+class will be held via Zoom. If so, a link will be sent via email and via the
+class discussion board.
 
 ## How do I contact you?
 
@@ -54,7 +58,7 @@ Office Phone: x4804
 
 Office hours: 
 
-* Prof. Fasy: TBA, and by appointment. Via Zoom.
+* Prof. Fasy: Monday 9:30-10:30, Wednesday after class, and by appointment.
 * TA: TBA.
 
 Note: These office hours are times that we are available to meet, and will be
@@ -69,8 +73,9 @@ The folders in this repository contain all materials for this class.
 - hw: homework assignments, as well as a LaTex template for your submissions. 
 - lec_notes: Copies of lecture notes and board photos. 
 - slides: Source for my Beamer slides (which only happens occasionally).
-- README.md: the course syllabus
+
 - misc.md: List of Miscellaneous assignments (see grading)
+- README.md: the course syllabus
 
 The schedule is at the bottom of this Markdown file.  If you want to learn more
 about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).
@@ -100,7 +105,7 @@ Your grade for this class will be determined by:
 * The [miscellaneous assignments](misc.md) will be worth up to 10 points each,
   and the total sum will count as a HW grade (max grade: 100).
 * Project: Groups will be assigned.  You will be creating a video presentation
-  of a "modern" algorithm.
+  of a "modern" algorithm.  More details to come.
 * Exams: We will have three exams in this course. Each exam will be 10% of the
   grade, with the best exam counting an additional 5%.
 
@@ -128,12 +133,12 @@ forbidden. Note:
 Except for note taking and group work requiring a computer, please keep
 electronic devices off during class, as they can be distractions to other
 students. Disruptions to the class will result in being asked to leave the
-lecture, and one half-point will be deducted from the attendance grade.
+lecture, and one half-point will be deducted from your final course grade.
 
 ### Withdrawing
 
-After 25 October 2019, I will only support requests to withdraw from this course
-with a ``W" grade if extraordinary personal circumstances exist.  If you are
+After 25 October 2020, I will only support requests to withdraw from this course
+with a "W" grade if extraordinary personal circumstances exist.  If you are
 considering withdrawing from this class, discussing this with me as early as
 possible is advised.  Since this class involves a project, the decision to
 withdraw must also be discussed with your group.
@@ -162,6 +167,54 @@ If there are aspects of the design, instruction, and/or experiences within this
 course that result in barriers to your inclusion or accurate assessment of
 achievement, please notify the instructor as soon as possible and/or contact
 Disability Services or the Office of Institutional Equity.
+
+### Use of Materials
+
+This syllabus, course lectures and presentations, and any course materials
+provided throughout this term are protected by U.S. copyright laws.  Students
+enrolled in the course may use them for their own research and educational
+purposes.  However, reproducing, selling or otherwise distributing these
+materials without written permission of the copyright owner is expressly
+prohibited, including providing materials (or solutions) to commercial
+platforms such as Chegg or CourseHero.  Doing so may constitute a violation of
+U.S. copyright law as well as MSU’s Code of Student Conduct.
+
+### Special Remarks and Policies for the COVID-19 Pandemic
+
+We anticipate that individuals in our campus community will be unknowingly
+carrying the SARS-CoV-2 virus that causes COVID-19. Consequently, members of our
+community will have a risk of becoming ill with the disease, just like
+individuals anywhere else in the country.
+
+Therefore, we expect all members of our community to treat each and every
+encounter with another person as a potential moment of virus transmission.
+
+To minimize the likelihood of rapid spread, we are all required to take
+reasonable steps to reduce the prospect of virus infection at MSU.
+
+“In accordance with the Centers for Disease Control recommendations, all
+students, faculty, staff and visitors will need to wear face masks in indoor
+campus spaces at Montana State University. Unless rescinded, this decision will
+be in effect until Friday, Oct. 1. Montana State University encourages students,
+faculty and staff to take advantage of convenient, on-campus clinics for the
+COVID-19 vaccine. Schedule your appointment by going to:
+www.montana.edu/health/coronavirus .” We recommend that you carry a personal
+disinfectant spray and cloth for your desk in the classroom and your lab
+station.
+
+We expect all members of our community to keep adequate distance from others and
+to avoid meeting in confined spaces.  As members of the MSU community, we
+regularly disinfect surfaces we touch, frequently wash our hands with soapy
+water, and assist colleagues and co-workers in following these practices.
+
+We expect one another to stay home and self-isolate even with minor symptoms
+such as cough, headache, mild fever, or simply not feeling well. When feeling
+any symptoms, we avoid contact with others in our households, and call a
+healthcare provider by telephone to determine if we should be tested for
+COVID-19.  We only return to campus after receiving the OK of our health
+provider.
+
+Compliance with these sensible anti-infection practices is expected.
 
 ## MSU Policies
 
@@ -198,7 +251,7 @@ Conduct.  This includes the following academic expectations:
 - make and keep appointments when necessary to meet with the instructor. 
 
 
-## MSU Drug and Alcohol Policies
+### MSU Drug and Alcohol Policies
 
 Per the Code of Conduct for students, no student may come to class under the
 influence of drugs or alcohol, as that would not be`Fostering a healthy, safe
@@ -206,6 +259,7 @@ and productive campus and community.`  See [Alcohol and Drug Policies
 Website](http://www.montana.edu/deanofstudents/alcoholanddrugs.html) for more
 information.  In particular, note:
 
+```
 As a federally-funded institution, we must adhere to all federal laws when it
 comes to alcohol and drug use or distribution. This holds true for marijuana as
 well. Using or distributing marijuana on or off campus is a violation of our
@@ -214,7 +268,7 @@ which marijuana is legal or has been decriminalized.
 
 As noted, the University's alcohol and drug policies apply off campus. Using
 drugs and/or alcohol and returning to your residence hall in a disruptive
-fashion- either via odor, noise, destruction, etc- can lead to residence life
+fashion--either via odor, noise, destruction, etc--can lead to residence life
 policy and alcohol or drug policy violations. Remember, not everyone wants to
 hear or smell you.
 ```
@@ -234,39 +288,33 @@ hear or smell you.
 
 ### Course Textbook
 
-* [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-
-## Schedule
-
-Each week, we assign:
-
-- Textbook Reading: should be skimmed before class, read after class
-- Additional Readings: additional resources that your classmates have found
-  helpful. If you need more resources, ask!
-
-### Course Textbook(s) 
-
-* Introduction to Algorithms, Third Edition} by Cormen, Leiserson, Rivest, and
+* (Required) [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+* (Suggested) Introduction to Algorithms, Third Edition} by Cormen, Leiserson, Rivest, and
   Stein (CLRS). 
-* _Elements of Programming Interviews_ (EPI) by Azis, Lee, and~Prakash.  Please
-  bring this book to class on Fridays.
 
 ## Schedule
 
 Each week, we assign:
-- CLRS reading: should be skimmed before class, read after class
-- EPI reading: read introductions of chapters and select problems
-- Additional readings: skim before class, read after class
+
+- Textbook Reading:  These are readings from Erickson's Algorithms, Please skim
+  before class, and fully read after class.
+- Additional Readings: additional resources that your classmates have found
+  helpful. Skim/read as you find appropriate. If you need more resources, ask!
+
+## Schedule
 
 ### Week 1 (25,27 August)
-- Topics: Intro to Analysis of Algorithms; Induction
+- Topics: Intro to Analysis of Algorithms; Induction; Asymptotic Notation 
 - Reading: Chapter 0 
 - Additional Reading: [Induction Review](https://www.cs.montana.edu/brittany/teaching/algorithms/15_fall/docs/induction.pdf)
 
 ### Week 17 (Finals Week)
-- We meet 15 December 14:00-15:50.
+- We meet Wednesday, 15 December, 14:00-15:50.
 - See [Finals Week Schedule](https://www.montana.edu/registrar/Schedules.html)
   for university policies.
 --- 
 
-This syllabus was created, using wording from previous courses taught by myself, as well as my colleagues.  Thanks all!
+This syllabus was created, using wording from previous courses taught by myself,
+as well as my colleagues.  Thanks all!  If you are teaching an algorithms or
+related course and wish to use any of the materials, you have permission to do
+so, as long as solutions to HW questions are not posted online.
