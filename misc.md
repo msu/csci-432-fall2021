@@ -1,8 +1,8 @@
-# Miscelaneous Assignmnet 
+# Miscellaneous Assignmnet 
 
 Choose your own adventure!  Each of these assignments is worth up to 10 points.
 The total (capped at 100) is counted as a homework grade.  The first three
-assignemnts can be completed at any time BEFORE the last week of classes, but
+assignments can be completed at any time BEFORE the last week of classes, but
 the other miscelaneous assignments have a specific due date.
 
 Some assignments will have specific requirements.  However, for most events, use
@@ -16,7 +16,7 @@ specific formatting requirements:
 
 * What did you learn?
 * Were there any algorithms involved? (Even if not explicitly discussed).
-* What is a piece of advise that you took away?
+* What is a piece of advice that you took away?
 * Did an audience member ask a question that you particularly liked or disliked?
 * Is there a question that you wish you could have asked but didn't?
 * If related to the event, what were you thinking about as you were leaving?
