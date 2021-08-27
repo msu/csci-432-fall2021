@@ -280,7 +280,7 @@ hear or smell you.
 ### Course Textbook
 
 * (Required) [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-* (Suggested) Introduction to Algorithms, Third Edition} by Cormen, Leiserson, Rivest, and
+* (Suggested) Introduction to Algorithms, Third Edition by Cormen, Leiserson, Rivest, and
   Stein (CLRS). 
 
 ## Schedule
