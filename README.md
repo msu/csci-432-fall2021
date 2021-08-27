@@ -198,40 +198,14 @@ U.S. copyright law as well as MSU’s Code of Student Conduct.
 
 ### Special Remarks and Policies for the COVID-19 Pandemic
 
-We anticipate that individuals in our campus community will be unknowingly
-carrying the SARS-CoV-2 virus that causes COVID-19. Consequently, members of our
-community will have a risk of becoming ill with the disease, just like
-individuals anywhere else in the country.
-
-Therefore, we expect all members of our community to treat each and every
-encounter with another person as a potential moment of virus transmission.
-
-To minimize the likelihood of rapid spread, we are all required to take
-reasonable steps to reduce the prospect of virus infection at MSU.
-
-“In accordance with the Centers for Disease Control recommendations, all
-students, faculty, staff and visitors will need to wear face masks in indoor
-campus spaces at Montana State University. Unless rescinded, this decision will
-be in effect until Friday, Oct. 1. Montana State University encourages students,
-faculty and staff to take advantage of convenient, on-campus clinics for the
-COVID-19 vaccine. Schedule your appointment by going to:
-www.montana.edu/health/coronavirus .” We recommend that you carry a personal
-disinfectant spray and cloth for your desk in the classroom and your lab
-station.
-
-We expect all members of our community to keep adequate distance from others and
-to avoid meeting in confined spaces.  As members of the MSU community, we
-regularly disinfect surfaces we touch, frequently wash our hands with soapy
-water, and assist colleagues and co-workers in following these practices.
-
-We expect one another to stay home and self-isolate even with minor symptoms
-such as cough, headache, mild fever, or simply not feeling well. When feeling
-any symptoms, we avoid contact with others in our households, and call a
-healthcare provider by telephone to determine if we should be tested for
-COVID-19.  We only return to campus after receiving the OK of our health
-provider.
-
-Compliance with these sensible anti-infection practices is expected.
+Masks are required in the classroom, at least through 1 October 2021.  The
+instructor requests that you wear masks as long as Gallatin county is in a "high
+transmission" status. If you need to miss class due to COVID-19 infection or
+quarantine (or any other reason), please communicate with the instructor as soon
+as possible in order to coordinate a plan for making up the missed classwork.
+As a reminder, attendance is required.  If the instructor is unable to make it
+to class, either a substitute will be found for those lectures or the class will
+be held via Zoom.
 
 ## MSU Policies
 
