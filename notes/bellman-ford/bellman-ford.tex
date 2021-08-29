@@ -1,0 +1,42 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{algorithm,algpseudocode}
+
+\usepackage{amsfonts}
+\def\R{{\mathbb R}}
+\def\N{{\mathbb N}}
+
+\title{In-Class Exercise 06}
+\author{CSCI 432}
+
+\begin{document}
+\maketitle
+
+\section*{Bellman-Ford Algorithm}
+\begin{algorithm}\caption{\textsc{Bellman-Ford}($G$, $\omega$, $v$)}\label{alg:seb}
+    {\bf Input:} graph $G=(V,E)$, weight function $\omega \colon E \to \R$, and initial vertex $v \in V$ \\
+    {\bf Output:} detects negative cycle if one exists.  Otherwise, returns
+    shortest distance to every vertex in $G$ from $v$.\\
+    \begin{algorithmic}[1]
+        \State $dist \gets$ real-valued array of length $|V|$, and indexed by $V$.
+        \State $dist[v] \gets 0$
+        \State $i \gets 1$
+
+        \While{$i < n$}
+            \For{$(u,w) \in E$}
+                \State $dist(w) \gets \min \{ dist(w), dist(u)+ \omega(u,w) \}$
+            \EndFor
+            \State $i++$
+        \EndWhile
+
+        \For{$(u,w) \in E$}
+            \If{ $dist(w) > dist(u)+ \omega(u,w)$  }\\
+                \quad\quad\quad \Return ``Negative Cycle Detected"
+            \EndIf
+        \EndFor\\
+        \Return $dist$
+    \end{algorithmic}
+\end{algorithm}
+
+\end{document}
