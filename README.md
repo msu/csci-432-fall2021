@@ -299,6 +299,10 @@ Each week, we assign:
 - Reading: Chapter 0 
 - Additional Reading: [Induction Review](https://www.cs.montana.edu/brittany/teaching/algorithms/15_fall/docs/induction.pdf)
 
+### Week 2 (30 August; 1,3 September)
+- Topics: Recursion: Runtime and Correctness 
+- Reading: Appendix II; Chapter 1
+
 ### Week 17 (Finals Week)
 - We meet Wednesday, 15 December, 14:00-15:50.
 - See [Finals Week Schedule](https://www.montana.edu/registrar/Schedules.html)
