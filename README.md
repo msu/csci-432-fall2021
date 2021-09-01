@@ -61,7 +61,7 @@ algorithms. In this course, students will:
 When? MWF 15:10-16:00
 Where? Roberts 218 
 
-Note: if necessary (e.g., if the instructor must quarantine or self-isolte),
+Note: if necessary (e.g., if the instructor must quarantine or self-isolate),
 class will be held via Zoom. If so, a link will be sent via email and via the
 class discussion board.
 
