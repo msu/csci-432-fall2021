@@ -220,7 +220,7 @@ responsible for the honest completion and representation of their work, the
 appropriate citation of sources and the respect and recognition of others'
 academic endeavors.
 
-Plagiarism will not be tolerated in this course. According to the Meriam-Webster
+Plagiarism will not be tolerated in this course. According to the Merriam-Webster
 dictionary, plagiarism is `the act of using another person's words or ideas
 without giving credit to that person.'  Proper credit means describing all
 outside resources (conversations, websites, etc.), and explaining the extent to
@@ -280,7 +280,7 @@ hear or smell you.
 ### Course Textbook
 
 * (Required) [Algorithms by Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
-* (Suggested) Introduction to Algorithms, Third Edition} by Cormen, Leiserson, Rivest, and
+* (Suggested) Introduction to Algorithms, Third Edition by Cormen, Leiserson, Rivest, and
   Stein (CLRS). 
 
 ## Schedule
