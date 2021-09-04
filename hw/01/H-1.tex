@@ -1,0 +1,168 @@
+\documentclass{article}
+\usepackage{../fasy-hw}
+
+%% UPDATE these variables:
+\renewcommand{\hwnum}{1}
+\title{Advanced Algorithms, Homework \hwnum}
+\author{\todo{Your Name Here}}
+\collab{\todo{list your collaborators here}}
+\date{due: 13 September 2021}
+
+\begin{document}
+
+\maketitle
+
+This homework assignment should be
+submitted as a single PDF file both to D2L and to Gradescope.
+
+General homework expectations:
+\begin{itemize}
+    \item Homework should be typeset using LaTex.
+    \item Answers should be in complete sentences and proofread.
+    \item You will not plagiarize, nor will you share your written solutions
+        with classmates.
+    \item List collaborators at the start of each question using the
+        \texttt{collab} command.
+    \item Put your answers where the \texttt{todo} command currently is (and
+        remove the \texttt{todo}, but not the word \texttt{Answer}).
+    \item If you are asked to come up with an algorithm, you are
+        expected to give an algorithm that beats the brute force (and, if possible, of
+        optimal time complexity). With your algorithm, please provide the following:
+        \begin{itemize}
+            \item \emph{What}: A prose explanation of the problem and the algorithm,
+                including a description of the input/output.
+            \item \emph{How}: Describe how the algorithm works, including giving
+                psuedocode for it.  Be sure to reference the pseudocode
+                from within the prose explanation.
+            \item \emph{How Fast}: Runtime, along with justification.  (Or, in the
+                extreme, a proof of termination).
+            \item \emph{Why}: Statement of the loop invariant for each loop, or
+                recursion invariant for each recursive function.
+        \end{itemize}
+\end{itemize}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{N/A}
+\nextprob{Groups}
+
+Work in a group of size $\geq 2$.  Explain your strategy for working in a group.
+
+\paragraph{Answer}
+\todo{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{\todo{}}
+\nextprob{More Basics}
+
+\begin{enumerate}
+
+    \item Use the definition of big-Theta notation to prove that $f(x)=4n-5$
+        is $\Theta(n+1)$.
+
+        \paragraph{Answer}
+        \todo{}
+
+    \item Use induction to prove that, for all $n \in \N$, the complete graph on
+        $n$ vertices (denoted by the symbol~$K_n$) has $\frac{n(n-1)}{2}$~edges.
+
+        \paragraph{Answer}
+        \todo{}
+
+    \item What is the negation of the following statement: for all integers $n
+        \in \Z$, $n$ is prime.
+
+        \paragraph{Answer}
+        \todo{}
+
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{\todo{}}
+\nextprob{Sorting before Searching?}
+Let $A$ be an array of $n$ comparable objects.  We do not know if $A$ is sorted
+or not.
+
+\begin{enumerate}
+    \item To answer the question \emph{is item $x$ in the $A$?}, should we
+        sort the array first?  Why or why not?
+
+        \paragraph{Answer}
+        \todo{}
+
+    \item Suppose we have $k$ elements that we want to find in $A$. Does this
+        change your answer? Why or why~not?
+
+        \paragraph{Answer}
+        \todo{}
+
+\end{enumerate}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{\todo{}}
+\nextprob{Recurrence Relations}
+Consider the function $T \colon \N \to \N$ defined by
+$$T(n) = \begin{cases}
+            1        & n=1\\
+            T(n-1)+1 & n>1.
+         \end{cases}
+$$
+What is the closed form and asymptotic the form of this recursion?  For the
+closed form, use induction to prove that it is correct.  For the asymptotic
+form, use the definition of big-Theta to justify.
+
+\paragraph{Answer}
+\todo{}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{\todo{}}
+\nextprob{More Recurrence Relations}
+
+What is the closed form and asymptotic form of the following recurrence
+relations? (Show work for partial credit, but full justification is not required
+on this question).
+Let $T \colon \N \to N$ be defined by $T(1)=1$ and, for $n>1$,
+\begin{enumerate}
+    \item $T(n) = 16 T(n/4) + n$
+        \paragraph{Answer} \todo{}
+    \item $T(n) = 2 T(n/2) + n \log{n}$
+        \paragraph{Answer} \todo{}
+    \item $T(n) = 6 T(n/3) + n^2 \log{n}$
+        \paragraph{Answer} \todo{}
+    \item $T(n) = 4 T(n/2) + n^2$
+        \paragraph{Answer} \todo{}
+    \item $T(n) = 9 T(n/3) + n$
+        \paragraph{Answer} \todo{}
+\end{enumerate}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{\todo{}}
+\nextprob{Pancakes}
+
+Chapter 1, Problem 9, parts (a) and (b).
+
+\paragraph{Answer, Part (a)}
+
+\todo{}
+
+\paragraph{Answer, Part (b)}
+
+\todo{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\collab{\todo{}}
+\nextprob{Largest Complete Subtree}
+
+Chapter 1, Problem 37.  For this problem, please provide a full proof of
+correctness (i.e., provide a proof for the recursion invariant).
+
+\paragraph{Answer}
+\todo{}
+
+
+
+\end{document}
