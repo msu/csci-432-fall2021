@@ -1,0 +1,122 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{amsthm}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}
+\renewcommand{\algorithmicensure}{\textbf{Output:}}
+\renewcommand{\algorithmiccomment}[2]{\hspace{#1}$\triangleright$ {#2} \hfill }
+
+\usepackage{amsfonts}
+\def\N{{\mathbb N}}
+\def\R{{\mathbb R}}
+\def\Z{{\mathbb Z}}
+
+\newcommand{\algref}[1]{Algorithm~\ref{alg:#1}}
+
+\newcommand{\answer}{\textbf{Answer:}\vspace{1.8in}}
+
+\title{Recursion Invariants}
+\author{CSCI 432, Fall 2021}
+
+\begin{document}
+\maketitle
+
+\section*{Recursion Invariants: Proving Partial Correctness}
+
+Recall the\textsc{Hanoi} algorithm (given in \algref{hanoi});
+see~\cite[Ch.~1]{textbook}.
+
+\begin{algorithm}[h!]
+    \caption{$\textsc{Hanoi}(n,src,dest,tmp)$}\label{alg:hanoi}
+    \begin{algorithmic}[1]
+        \REQUIRE $n \in \N$, and three towers with disks: $src,dest,tmp$ such
+        that $P$
+        \ENSURE $R$ (see below)
+        %
+        \IF{ $n>0$ }\label{algln:certificate:ifdirs}
+            \STATE $\textsc{Hanoi}(n-1,src,tmp,dest)$
+            \STATE move top disk from $src$ to $dest$
+            \STATE $\textsc{Hanoi}(n-1,tmp,dest,src)$
+        \ENDIF
+    \end{algorithmic}
+\end{algorithm}
+
+\begin{enumerate}
+    \item Suppose we have $N$ disks total. What are the assumptions on the input
+        to the initial call $\textsc{Hanoi}(N,src,dest,tmp)$?
+
+        \answer
+
+    \item What does it mean for $\textsc{Hanoi}(N,src,dest,tmp)$ to execute
+        correctly? What does it return / what does it need to accomplish?
+
+        \answer
+
+        Going forward, we call this statement $Q$.
+
+    \pagebreak
+    \item For a general call to the recursive algorithm what are the assumptions on the input
+        (For convenience, suppose the call is: $\textsc{Hanoi}(n,A,B,C)$).
+
+        \answer
+
+        Going forward, we will call these assumptions $P$.
+
+    \item What is the recursion invariant?
+
+        The recursion invariant is the (compound) statement $R$ that can fill in
+        the blank of the following sentence:
+        \emph{At each recursive call $\textsc{Hanoi}(n,A,B,C)$,
+        $R$ is satisfied (i.e., true).}  Moreover, $R$ is such that we can use
+        it to prove INITIALIZATIOn, MAINTENCE, and END.
+
+        For $\textsc{Hanoi}$, the recursion invariant $R$ is:
+        \begin{itemize}
+            \item There are currently no violations of smaller disks on larger
+                disks. (Note: the world would crumble if this were violated at
+                any time), AND
+            \item the $n$ smallest disks are now on $B$. (Note: they began on
+                $A$), AND
+            \item no other disks have moved.
+        \end{itemize}
+
+    \item INITIALIZTION This is like the base case for recursion.  Colloquially,
+        we ask ``Why is this
+        true for the smallest input?'' (And, what is those inputs that
+        would allow us to return without a recursive call?)  More formally, we
+        can say: If $n=n_0,A,B,C$ satisfy $P$, then after the call to
+        $\textsc{Hanoi}(n_0,A,B,C)$, the recursion invariant $R$ is satisfied.
+
+        \answer
+
+        Note: sometimes, just as in induction, there may be more than one base case.
+
+    \pagebreak
+    \item MAINTENCE: This part is JUST like induction.
+        Let $k \in \N$ such that $k \geq n_0$.  Assume that, for all $n \in \N$ such that
+        $n_0 \leq n \leq k$, the recursion invariant $R$ holds after a call to
+        $\textsc{Hanoi}(n,*,*,*)$. (That was the equivalent to the inductive
+        assumption).  Now, we must prove that $R$ holds after
+        $\textsc{Hanoi}(k+1,A,B,C)$. (Hint: use the line numbers as you walk
+        through the algorithm).
+
+        \answer
+
+    \item END: This is where we diverge from induction.  Since algorithms are
+        finite, we can't go on forever. Colloquially, we say ``if the initial call
+        $\textsc{Hanoi}(N,src,dest,tmp)$ finishes executing, then all $N$ disks
+        (which were initially on $src$) have moved to $dst$.'' More formally, we
+        can phrase this as: If the recursion invariant holds and the algorithm
+        completes execution, then the post-condition $Q$ is satisfied.
+
+        \answer
+
+\end{enumerate}
+
+\bibliographystyle{acm}
+\bibliography{biblio}
+
+\end{document}
