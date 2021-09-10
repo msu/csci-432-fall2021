@@ -287,7 +287,7 @@ hear or smell you.
 
 Each week, we assign:
 
-- Textbook Reading:  These are readings from Erickson's Algorithms, Please skim
+- Textbook Reading:  These are readings from Erickson's Algorithms, please skim
   before class, and fully read after class.
 - Additional Readings: additional resources that your classmates have found
   helpful. Skim/read as you find appropriate. If you need more resources, ask!
