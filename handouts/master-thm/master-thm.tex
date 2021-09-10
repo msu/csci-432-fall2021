@@ -1,0 +1,54 @@
+\documentclass{article}
+
+\usepackage[margin=1in]{geometry}
+
+\usepackage{amsfonts}
+\def\R{{\mathbb R}}
+\def\N{{\mathbb N}}
+
+\title{In-Class Exercise 03}
+\author{CSCI 432}
+
+\begin{document}
+\maketitle
+
+\noindent
+Name:\\
+Who did you work with today?
+
+\section*{Master's Theorem}
+
+Master's theorem allows us to quickly solve recurrence relations of the form:
+$$ T(n) = a T(n/b) + f(n),$$
+where $a, b \in \N$ such that $a \geq 1$ and $b >0$ and $f(n)$ is asymptotically
+positive.  Then, we can determine the closed-form of $T(n)$ as follows:
+\begin{enumerate}
+    \item IF there exists $\varepsilon \in \R_+$ such that $f(n) \in O(n^{\log_b
+        a - \varepsilon})$, THEN $T(n) \in \Theta(n^{\log_b a})$.
+    \item IF there exists $\varepsilon \in \R_+$ such that $f(n) \in \Theta(n^{\log_b
+        a})$, THEN $T(n) \in \Theta(n^{\log_b a}\log n)$.
+    \item IF (1) there exists $\varepsilon \in \R_+$ such that $f(n) \in O(n^{\log_b
+        a + \varepsilon})$
+        and (2) there exists $c \in (0,1)$ and $n_0 \in \N$ such that for all $n
+        \geq n_0$, $a f(n/b) \leq c f(n)$, THEN $T(n) \in \Theta(f(n))$.
+\end{enumerate}
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|}
+        \hline
+        &  $a$ & $b$  & $\log_b a$  & $n^{\log_b a}$  & $f(n)$  & Potential
+        Case? & $\varepsilon$, if Case 1 or 3  & Closed Form \\ \hline
+        \hline
+        $T(n) = T(n/2)+1$             & &  &  &  &  & & & \\[5ex] \hline
+        $T(n) = 2 T(n/4) + \sqrt{n}$  & &  &  &  & &  & & \\[5ex] \hline
+        $T(n) = 2 T(n/4) + n$         & &  &  &  &  & & &  \\[5ex] \hline
+        $T(n) = 2 T(n/4) + n^2$       & &  &  &  &  & & & \\[5ex] \hline
+        $T(n) = 3 T(n/3) + \Theta(1)$ & &  &  &  & & & & \\[5ex] \hline
+    \end{tabular}
+\end{table}
+Remember, Case 3 has an additional condition to check! Do that in the space
+provided below, or on the back of this page.\\
+\fbox{\begin{minipage}{6.5in}\hfill\vspace{1in}\end{minipage}}
+
+\end{document}
