@@ -303,6 +303,31 @@ Each week, we assign:
 - Topics: Recursion: Runtime and Correctness 
 - Reading: Appendix II; Chapter 1
 
+### Week 3 (6,8,10 September)
+- Topics: More Recursion: Correctness and Master Theorem 
+- Reading: Appendix II; Chapter 1
+
+### Week 4 (13,15,17 September)
+- Topics: Proof of Termination; Backtracking
+- Reading:  Chapter 2
+
+### Week 5 (20,22,23 September)
+- Exam on Wednesday!
+- Topics: Dynamic Programming
+- Reading: Chapter 3
+
+### Week 6 (27,29 September; 1 October)
+- Topics: More Dynamic Programming
+- Reading: Chapter 3
+
+### Week 7 (4,6,8 October)
+- Topics: Greedy Algorithms 
+- Reading: Chapter 4 
+
+### Week 8 (11,13,15 October)
+- Topics: Graph Algorithms 
+- Reading: Chapters 5,6 
+
 ### Week 17 (Finals Week)
 - We meet Wednesday, 15 December, 14:00-15:50.
 - See [Finals Week Schedule](https://www.montana.edu/registrar/Schedules.html)
