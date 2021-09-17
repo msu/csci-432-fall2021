@@ -59,7 +59,7 @@ The assignments:
    derivative) is a geodesic lamination.  (Standard two-page write-up. See
    above).
 5. Attend and reflect on the Kopriva Lecture by Dr. Dominique Zosso. Thursday,
-   16 September 2021 at 15:00 in the Procastinator Theater (note: there might be
-   a webex link as wekk). [More
+   16 September 2021 at 15:00 in the Procrastinator Theater (note: there might be
+   a webex link as well). [More
    details](https://www.montana.edu/calendar/events/38697). Write-up is due
    Thursday, 23 September 2021.
