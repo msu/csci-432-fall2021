@@ -76,7 +76,7 @@ Office Phone: x4804
 Office hours: 
 
 * Prof. Fasy: Monday 9:30-10:30, Wednesday after class, and by appointment.
-* TA: TBA.
+* TA: Dalton Gomez 
 
 Note: These office hours are times that we are available to meet, and will be
 held via Zoom (please see email for links).  Please email or call (x4804) in
