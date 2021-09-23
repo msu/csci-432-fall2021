@@ -64,7 +64,7 @@
       \vbox{
         \hbox to 6.25in { \@author \hfill \@date}
         \vspace{1mm}
-        \hbox to 6.25in {\bf \hfill CSCI 246 Problem \@problem\ \hfill}
+        \hbox to 6.25in {\bf \hfill CSCI 432 Problem \@problem\ \hfill}
         \vspace{1mm}
         \hbox to 6.25in { Collaborators on this problem: {\it \@collab} \hfill}
       }
@@ -75,10 +75,10 @@
 % ... checks at the beginning of document
 \AtBeginDocument{
   \ifx \@author \@empty
-    \@latexerr{You must use \noexpand\author{name} for 246 homework}
+    \@latexerr{You must use \noexpand\author{name} for 432 homework}
   \fi
   \ifx \@collab \@empty
-    \@latexerr{You must use \noexpand\collab{names or none} for 246 homework}
+    \@latexerr{You must use \noexpand\collab{names or none} for 432 homework}
   \fi
 }
 
