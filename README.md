@@ -276,6 +276,8 @@ hear or smell you.
 - [Inkscape Can Tutorial](http://tavmjong.free.fr/INKSCAPE/MANUAL/html/SoupCan.html)
 - [Plagiarism Tutorial](http://www.lib.usm.edu/legacy/plag/pretest_new.php)
 - [Big-O, Intuitive Explanation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [Discrete Lecture
+  Notes](https://courses.cs.duke.edu/spring09/cps102/Lectures/Book.pdf)
 
 ### Course Textbook
 
