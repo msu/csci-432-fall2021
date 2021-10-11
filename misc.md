@@ -67,7 +67,7 @@ The assignments:
    Heritage
    day](https://www.montana.edu/news/21456/msu-sets-american-indian-heritage-day-celebration-for-sept-23-24)).
    Write a 1-2 page reflection on how the land-grant mission of MSU will impact
-   your (corrent and/or) future role in society.
+   your (current and/or) future role in society.
 7. Participate in [ShellHacks](https://shellhacks.net/) the weekend of Sept
    24-26.  Write a short report
    to summarize what you did in the hackathon. Write-up is due 3 October 2021.
