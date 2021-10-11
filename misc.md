@@ -77,3 +77,6 @@ on Thursday, 7 October 2021. Write-up is due 14 October.
 9. Attend at least one talk at the [Fall Workshop on Computational
 Geometry](https://comptag.github.io/fwcg21/call.html), to be held Oct 15-16.
 Please note registration is required. Write-up due 23 October.
+10. Attend [Lucy William's Comprehensive
+    Exam](https://www.montana.edu/calendar/events/39417) on Wednesday, 6 October
+    2021. Write-up is due 13 October 2021.

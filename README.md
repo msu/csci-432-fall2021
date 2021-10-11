@@ -323,12 +323,16 @@ Each week, we assign:
 - Reading: Chapter 3
 
 ### Week 7 (4,6,8 October)
-- Topics: Greedy Algorithms 
+- Topics: Greedy Algorithms, Loop Invarints
 - Reading: Chapter 4 
+- Additional Reading: [Gas Stop
+  Problem](https://medium.com/@TheGeekiestOne/greedy-algorithms-the-car-fueling-problem-a35ccc9bb011)
 
 ### Week 8 (11,13,15 October)
 - Topics: Graph Algorithms 
 - Reading: Chapters 5,6 
+
+
 
 ### Week 17 (Finals Week)
 - We meet Wednesday, 15 December, 14:00-15:50.
