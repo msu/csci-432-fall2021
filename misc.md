@@ -72,7 +72,7 @@ The assignments:
    24-26.  Write a short report
    to summarize what you did in the hackathon. Write-up is due 3 October 2021.
 8. Attend the [CBE in-person Poster
-Session](https://www.montana.edu/news/21456/msu-sets-american-indian-heritage-day-celebration-for-sept-23-24)
+Session](https://www.montana.edu/calendar/events/39111)
 on Thursday, 7 October 2021. Write-up is due 14 October.
 9. Attend at least one talk at the [Fall Workshop on Computational
 Geometry](https://comptag.github.io/fwcg21/call.html), to be held Oct 15-16.
