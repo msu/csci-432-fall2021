@@ -28,6 +28,7 @@ specific formatting requirements:
 
 
 The assignments:
+
 0. Suggest a misc assignment!  To earn misc credit, the suggestion must be
     submitted in writing (an email or upload a PDF to gradescope) by Halloween,
     31 October 2021.
