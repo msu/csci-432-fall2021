@@ -81,7 +81,7 @@ Please note registration is required. Write-up due 23 October.
     Exam](https://www.montana.edu/calendar/events/39417) on Wednesday, 6 October
     2021. Write-up is due 13 October 2021.
 11. Meet a postdoc on Wednesday, 13 October. Location TBA.  Write a 1-page reflection on the
-experinece (due: 20 October 2021).
+experience (due: 20 October 2021).
 12. Attend IEEE VIS practic Q&A on 14 October at 10:00.  Zoom link will be
 provided via email.  Come up with three questions for the speaker. List of questions due:
 21 October 2021.
