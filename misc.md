@@ -80,3 +80,6 @@ Please note registration is required. Write-up due 23 October.
 10. Attend [Lucy William's Comprehensive
     Exam](https://www.montana.edu/calendar/events/39417) on Wednesday, 6 October
     2021. Write-up is due 13 October 2021.
+11. Suggest a misc assignment!  To earn misc credit, the suggestion must be
+    submitted in writing (an email or upload a PDF to gradescope) by Halloween,
+    31 October 2021.
