@@ -28,7 +28,9 @@ specific formatting requirements:
 
 
 The assignments:
-
+0. Suggest a misc assignment!  To earn misc credit, the suggestion must be
+    submitted in writing (an email or upload a PDF to gradescope) by Halloween,
+    31 October 2021.
 1. Attend one of the CS seminars. They are held Mondays 16:10-17:00.  Please
    join cs-announce the notification of who is speaking each week (and the WebEx
    link).  Due: before the last week of class.
@@ -80,11 +82,8 @@ Please note registration is required. Write-up due 23 October.
 10. Attend [Lucy William's Comprehensive
     Exam](https://www.montana.edu/calendar/events/39417) on Wednesday, 6 October
     2021. Write-up is due 13 October 2021.
-11. Suggest a misc assignment!  To earn misc credit, the suggestion must be
-    submitted in writing (an email or upload a PDF to gradescope) by Halloween,
-    31 October 2021.
-12. Meet a postdoc on Wednesday, 13 October. Location TBA.  Write a 1-page reflection on the
+11. Meet a postdoc on Wednesday, 13 October. Location TBA.  Write a 1-page reflection on the
 experinece (due: 20 October 2021).
-13. Attend IEEE VIS practic Q&A on 14 October at 10:00.  Zoom link will be
+12. Attend IEEE VIS practic Q&A on 14 October at 10:00.  Zoom link will be
 provided via email.  Come up with three questions for the speaker. List of questions due:
 21 October 2021.
