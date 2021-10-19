@@ -38,8 +38,10 @@ the TA.
     2. For those that choose the "comparison of algorithms" option, please fully
     describe each algorithm/implementation, as well as the comparison
     techniques.
-* Please submit a formal write-up in both D2L and Gradescope.  For any code
-  written for this project, please submit via D2L only.
+* FINAL: Please submit a 2-3 page document outlining each group member's
+  contribution to your group.  This is an individual submission. 
+* Please submit all write-ups in both D2L and Gradescope.  For any code written
+  for this project, please submit via D2L only.
 
 ## Option 1 Suggestions
 
