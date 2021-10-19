@@ -31,7 +31,7 @@ the TA.
   a 5-minute video (min: 4 minutes, max: 6.5 minutes). After presenting the
   video in class, be prepared for a short Q&A.
 * 10 December 2021: A formal write-up summarizing the algorithm that your group
-  presente is due, including a description of the problem it solves.  In
+  presented is due, including a description of the problem it solves.  In
   addition,
     1. For those that choose the "recent algorithm +1" option, describe your +1
     option in detail.
