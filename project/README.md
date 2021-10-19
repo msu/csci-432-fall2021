@@ -76,7 +76,7 @@ of venue for finding other papers:
 * EuroCG: European Workshop on Computational Geometry.
 * GD: International Symposium on Graph Drawing.
 * ISAAC: International Symposiums on Algorithms and Computation.
-* LATIN: Latin American Theoretical INformatics.
+* LATIN: Latin American Theoretical Informatics.
 * SIGSPATIAL GIS
 * SoCG; Symposium on Computational Geometry.
 * SODA: Symposium on Discrete Algorithms.
