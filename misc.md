@@ -86,5 +86,8 @@ Please note registration is required. Write-up due 23 October.
 11. Meet a postdoc on Wednesday, 13 October. Location TBA.  Write a 1-page reflection on the
 experinece (due: 20 October 2021).
 12. Attend IEEE VIS practice Q&A on 14 October at 10:00.  Zoom link will be
+experience (due: 20 October 2021).
+12. Attend IEEE VIS practic Q&A on 14 October at 10:00.  Zoom link will be
+>>>>>>> update misc.md "experinece" -> "experience"
 provided via email.  Come up with three questions for the speaker. List of questions due:
 21 October 2021.
