@@ -29,7 +29,10 @@ the TA.
   Zoom.
 * 6 December 2021: final presentations.  The presentation will be in the form of
   a 5-minute video (min: 4 minutes, max: 6.5 minutes). After presenting the
-  video in class, be prepared for a short Q&A.
+  video in class, be prepared for a short Q&A.  Two example projects from
+  previous years:
+    1. [Path Planning](https://www.youtube.com/watch?v=skK-3UfcXW0)
+    2. [Elastic Pathing Bozeman](https://www.youtube.com/watch?v=CXqyQ1_Elss)
 * 10 December 2021: A formal write-up summarizing the algorithm that your group
   presente is due, including a description of the problem it solves.  In
   addition,
