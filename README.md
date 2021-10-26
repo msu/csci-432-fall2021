@@ -332,7 +332,37 @@ Each week, we assign:
 - Topics: Graph Algorithms 
 - Reading: Chapters 5,6 
 
+### Week 9 (18,20,22 October)
+- Topics: Graph Algorithms (cont.)
+- Reading: Chapters 5,6 
 
+### Week 10 (25,27,29 October)
+- Topics: More Graph Algorithms 
+- Reading: Chapter 7 
+
+### Week 11 (1,3,5 November)
+- Exam on Wednesday!
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 12 (8,10,12 November)
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 13 (15,17,19 November)
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 14 (22,24,26 November)
+- Fall Break (no classes)
+
+### Week 15 (29 November; 1,3 December)
+- Topics: TODO 
+- Reading: TODO 
+
+### Week 16 (6,8,10 December)
+- Topics: TODO 
+- Reading: TODO 
 
 ### Week 17 (Finals Week)
 - We meet Wednesday, 15 December, 14:00-15:50.
