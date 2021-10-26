@@ -34,7 +34,7 @@ the TA.
     1. [Path Planning](https://www.youtube.com/watch?v=skK-3UfcXW0)
     2. [Elastic Pathing Bozeman](https://www.youtube.com/watch?v=CXqyQ1_Elss)
 * 10 December 2021: A formal write-up summarizing the algorithm that your group
-  presente is due, including a description of the problem it solves.  In
+  presented is due, including a description of the problem it solves.  In
   addition,
     1. For those that choose the "recent algorithm +1" option, describe your +1
     option in detail.
