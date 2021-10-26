@@ -12,7 +12,7 @@ present one of the following two options:
    plus-one (+1) element of their project.
    
 2. Comparison of algorithms. Here, you will choose a problem with at least three
-   algorithms (and/or impmenetations) to compare.  You must implement at least
+   algorithms (and/or implementations) to compare.  You must implement at least
    one of these algorithms.  The presentation is to present the pros/cons of
    the different algorithms/implementations.
 
@@ -34,7 +34,7 @@ the TA.
     1. [Path Planning](https://www.youtube.com/watch?v=skK-3UfcXW0)
     2. [Elastic Pathing Bozeman](https://www.youtube.com/watch?v=CXqyQ1_Elss)
 * 10 December 2021: A formal write-up summarizing the algorithm that your group
-  presente is due, including a description of the problem it solves.  In
+  presented is due, including a description of the problem it solves.  In
   addition,
     1. For those that choose the "recent algorithm +1" option, describe your +1
     option in detail.
@@ -73,15 +73,15 @@ List of possible papers from which to base a project:
 
 The list of papers above is only a sprinkling of recent developments in
 algorithms. I encourage teams to peruse the following (non-exhaustive) list
-of venue for finding other papers:
+of venues for finding other papers:
 
 * ESA: European Symposium on Algorithms.
 * EuroCG: European Workshop on Computational Geometry.
 * GD: International Symposium on Graph Drawing.
 * ISAAC: International Symposiums on Algorithms and Computation.
-* LATIN: Latin American Theoretical INformatics.
+* LATIN: Latin American Theoretical Informatics.
 * SIGSPATIAL GIS
-* SoCG; Symposium on Computational Geometry.
+* SoCG: Symposium on Computational Geometry.
 * SODA: Symposium on Discrete Algorithms.
 * STOC: ACM Symposium on Theory of Computing.
 * SWAT: Scandinavian Workshop on Algorithm Theory.
