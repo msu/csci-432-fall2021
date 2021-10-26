@@ -12,7 +12,7 @@ present one of the following two options:
    plus-one (+1) element of their project.
    
 2. Comparison of algorithms. Here, you will choose a problem with at least three
-   algorithms (and/or impmenetations) to compare.  You must implement at least
+   algorithms (and/or implementations) to compare.  You must implement at least
    one of these algorithms.  The presentation is to present the pros/cons of
    the different algorithms/implementations.
 
