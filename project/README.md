@@ -73,7 +73,7 @@ List of possible papers from which to base a project:
 
 The list of papers above is only a sprinkling of recent developments in
 algorithms. I encourage teams to peruse the following (non-exhaustive) list
-of venue for finding other papers:
+of venues for finding other papers:
 
 * ESA: European Symposium on Algorithms.
 * EuroCG: European Workshop on Computational Geometry.
@@ -81,7 +81,7 @@ of venue for finding other papers:
 * ISAAC: International Symposiums on Algorithms and Computation.
 * LATIN: Latin American Theoretical Informatics.
 * SIGSPATIAL GIS
-* SoCG; Symposium on Computational Geometry.
+* SoCG: Symposium on Computational Geometry.
 * SODA: Symposium on Discrete Algorithms.
 * STOC: ACM Symposium on Theory of Computing.
 * SWAT: Scandinavian Workshop on Algorithm Theory.
