@@ -76,7 +76,7 @@ Office Phone: x4804
 Office hours: 
 
 * Prof. Fasy: Monday 9:30-10:30, Wednesday after class, and by appointment.
-* TA: Dalton Gomez 
+* TA: Dalton Gomez. 
 
 Note: These office hours are times that we are available to meet, and will be
 held via Zoom (please see email for links).  Please email or call (x4804) in
@@ -87,12 +87,12 @@ on our end).
 
 The folders in this repository contain all materials for this class.
   
-- hw: homework assignments, as well as a LaTex template for your submissions. 
+- hw: Homework assignments, as well as a LaTex template for your submissions. 
 - lec_notes: Copies of lecture notes and board photos. 
 - slides: Source for my Beamer slides (which only happens occasionally).
 
-- misc.md: List of Miscellaneous assignments (see grading)
-- README.md: the course syllabus
+- misc.md: List of Miscellaneous assignments (see grading).
+- README.md: The course syllabus.
 
 The schedule is at the bottom of this Markdown file.  If you want to learn more
 about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).
@@ -101,7 +101,7 @@ about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).
 
 The repository is set as public, so you can access all course materials easily.
 I suggest creating a fork, so that you can use your fork to maintain your own
-materials for this class.  See the resources section below for forking directions.
+materials for this class. See the resources section below for forking directions.
 
 To clone this repo:
 ```
@@ -117,14 +117,14 @@ Your grade for this class will be determined by:
 
 * Homework: All assignments must be submitted by 23:59 on the due date. Late
   assignments will not be accepted.  The lowest two homework grades will be
-  dropped.  The submission should be typeset in LaTex, and submitted as a PDF
+  dropped. The submission should be typeset in LaTex, and submitted as a PDF
   both in D2L and Gradescope. Each problem should be started on a fresh page.
 * The [miscellaneous assignments](misc.md) will be worth up to 10 points each,
   and the total sum will count as a HW grade (max grade: 100). If you choose not
   to do the miscellaneous assigments, that grade will be one of the two lowest 
   homework grades dropped, as mentioned above.
-* Project: Groups will be assigned.  You will be creating a video presentation
-  of a "modern" algorithm.  More details to come.
+* Project: Groups will be assigned. You will be creating a video presentation
+  of a "modern" algorithm. More details to come.
 * Exams: We will have three exams in this course. Each exam will be 10% of the
   grade, with the best exam counting an additional 5%.
 
@@ -143,8 +143,8 @@ forbidden. Note:
 - All collaboration (who and what) must be clearly indicated in writing on
   anything turned in.  
 - Homework may be solved collaboratively except as explicitly forbidden, but
-  solutions must be written up **independently**.  This is best done by writing
-  your solutions when not in a group setting.  Groups should be small enough
+  solutions must be written up **independently**. This is best done by writing
+  your solutions when not in a group setting. Groups should be small enough
   that each member plays a significant role.
 
 ### Classroom Etiquette
@@ -157,7 +157,7 @@ lecture, and one half-point will be deducted from your final course grade.
 ### Withdrawing
 
 After 25 October 2021, I will only support requests to withdraw from this course
-with a "W" grade if extraordinary personal circumstances exist.  If you are
+with a "W" grade if extraordinary personal circumstances exist. If you are
 considering withdrawing from this class, discussing this with me as early as
 possible is advised.  Since this class involves a project, the decision to
 withdraw must also be discussed with your group.
