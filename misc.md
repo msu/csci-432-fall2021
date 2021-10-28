@@ -91,3 +91,6 @@ provided via email.  Come up with three questions for the speaker. List of quest
 13. Take an implicit bias test from
     (https://implicit.harvard.edu/implicit/).  Write a 1-2 page reflection on
     why awareness of implicit bias is important.  Due: 5 November 2021.
+14. Peng Zou's PhD Proposal. See the [MSU
+    Today](https://www.montana.edu/calendar/events/39850) announcement for
+    details.  Due: 5 November 2021.
