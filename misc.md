@@ -88,3 +88,6 @@ experience (due: 20 October 2021).
 12. Attend IEEE VIS practice Q&A on 14 October at 10:00.  Zoom link will be
 provided via email.  Come up with three questions for the speaker. List of questions due:
 21 October 2021.
+13. Take an implicit bias test from
+    (https://implicit.harvard.edu/implicit/).  Write a 1-2 page reflection on
+    why awareness of implicit bias is important.  Due: 5 November 2021.
