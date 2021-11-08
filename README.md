@@ -344,25 +344,26 @@ Each week, we assign:
 
 ### Week 11 (1,3,5 November)
 - Exam on Wednesday!
-- Topics: TODO 
-- Reading: TODO 
+- Topics: MST and SSSP 
+- Reading: Chapter 8 
 
 ### Week 12 (8,10,12 November)
-- Topics: TODO 
-- Reading: TODO 
+- Topics: APSP and Flows
+- Reading: Chapter 9 and 10.1 
 
 ### Week 13 (15,17,19 November)
-- Topics: TODO 
-- Reading: TODO 
+- Topics: Flows and Cuts
+- Reading: Chapter 10-11 
 
 ### Week 14 (22,24,26 November)
 - Fall Break (no classes)
 
 ### Week 15 (29 November; 1,3 December)
-- Topics: TODO 
+- Topics: Randomized Algorithms 
 - Reading: TODO 
 
 ### Week 16 (6,8,10 December)
+- Final Project Presentations this week!
 - Topics: TODO 
 - Reading: TODO 
 
