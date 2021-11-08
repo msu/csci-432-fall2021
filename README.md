@@ -101,7 +101,7 @@ about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).
 
 The repository is set as public, so you can access all course materials easily.
 I suggest creating a fork, so that you can use your fork to maintain your own
-materials for this class. See the resources section below for forking directions.
+materials for this class.  See the resources section below for forking directions.
 
 To clone this repo:
 ```
@@ -117,7 +117,7 @@ Your grade for this class will be determined by:
 
 * Homework: All assignments must be submitted by 23:59 on the due date. Late
   assignments will not be accepted.  The lowest two homework grades will be
-  dropped. The submission should be typeset in LaTex, and submitted as a PDF
+  dropped.  The submission should be typeset in LaTex, and submitted as a PDF
   both in D2L and Gradescope. Each problem should be started on a fresh page.
 * The [miscellaneous assignments](misc.md) will be worth up to 10 points each,
   and the total sum will count as a HW grade (max grade: 100). If you choose not
