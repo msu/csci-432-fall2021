@@ -51,7 +51,7 @@ the TA.
 List of possible papers from which to base a project:
 
 * Ahmed, Fasy, Wenk. Path-Based Distance for Street Map Comparison. ACM TSAS, 2015.
-* Aloupis, Fevens, Langerman, Matsui, Mesa, Nu˜nez, Rappaport, and Toussaint. Algorithms for Computing Geometric Measures of Melodic Similarity. Computer Music Journal, 2006.
+* Aloupis, Fevens, Langerman, Matsui, Mesa, Nuñez, Rappaport, and Toussaint. Algorithms for Computing Geometric Measures of Melodic Similarity. Computer Music Journal, 2006.
 * Bethea and Reiter. Data Structures with Unpredictable Timing. ESORICS, 2009.
 * Chambers, de Verdire, Erickson, Lazard, Lazarus, and Thite. Homotopic Frchet Distance between Curves or, Walking your Dog in the Woods in Polynomial Time. Computational Geometry, 2010.
 * Chan. Optimal output-sensitive convex hull algorithms in two and three dimensions. Discrete and Computational Geometry, 1996.
