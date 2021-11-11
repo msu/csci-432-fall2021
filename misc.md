@@ -94,3 +94,4 @@ provided via email.  Come up with three questions for the speaker. List of quest
 14. Peng Zou's PhD Proposal. See the [MSU
     Today](https://www.montana.edu/calendar/events/39850) announcement for
     details.  Due: 5 November 2021.
+15. Hand-in HW 5G on time, Monday, 8 November 2021, by 23:59.
