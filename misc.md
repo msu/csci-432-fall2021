@@ -95,3 +95,15 @@ provided via email.  Come up with three questions for the speaker. List of quest
     Today](https://www.montana.edu/calendar/events/39850) announcement for
     details.  Due: 5 November 2021.
 15. Hand-in HW 5G on time, Monday, 8 November 2021, by 23:59.
+16. [Cooper Strahan Master's Thesis Defense](https://www.montana.edu/calendar/events/38747)
+    Friday, November 12, 2021 from 10:00am to 12:00pm  
+    Write-up due: 19 November 2021  
+17. [Saidur Rahman's PhD Comprehensive Exam](https://www.montana.edu/calendar/events/39902)
+    Monday, November 15, 2021 from 2:00pm to 3:00pm  
+    Write-up due: 22 November 2021.
+18. [Women in STEM History with AWC](https://www.montana.edu/calendar/events/39077)
+Tuesday, November 16, 2021 from 5:00pm to 6:00pm
+    Write-up due: 25 November 2021.
+19. Talk on [The Analysis of Binary File Security Using a Hierarchical Quality Model](https://www.montana.edu/calendar/events/38832)  
+    Friday, December 3, 2021 from 2:00pm to 3:00pm
+    Write-up due: 10 December 2021.
