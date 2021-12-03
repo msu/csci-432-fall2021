@@ -76,7 +76,7 @@ Office Phone: x4804
 Office hours: 
 
 * Prof. Fasy: Monday 9:30-10:30, Wednesday after class, and by appointment.
-* TA: Dalton Gomez 
+* TA: Dalton Gomez. 
 
 Note: These office hours are times that we are available to meet, and will be
 held via Zoom (please see email for links).  Please email or call (x4804) in
@@ -87,12 +87,12 @@ on our end).
 
 The folders in this repository contain all materials for this class.
   
-- hw: homework assignments, as well as a LaTex template for your submissions. 
+- hw: Homework assignments, as well as a LaTex template for your submissions. 
 - lec_notes: Copies of lecture notes and board photos. 
 - slides: Source for my Beamer slides (which only happens occasionally).
 
-- misc.md: List of Miscellaneous assignments (see grading)
-- README.md: the course syllabus
+- misc.md: List of Miscellaneous assignments (see grading).
+- README.md: The course syllabus.
 
 The schedule is at the bottom of this Markdown file.  If you want to learn more
 about Markdown, check out [this tutorial](https://www.markdowntutorial.com/).

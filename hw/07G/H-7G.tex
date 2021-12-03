@@ -1,0 +1,122 @@
+\documentclass{article}
+\usepackage{../fasy-hw}
+
+%% UPDATE these variables:
+\renewcommand{\hwnum}{5}
+\title{Advanced Algorithms, Homework \hwnum}
+\author{\todo{Your Name Here}}
+\collab{\todo{list your collaborators here}}
+\date{due: Monday, 8 December 2021}
+
+\begin{document}
+
+\maketitle
+
+This homework assignment should be
+submitted as a single PDF file both to D2L and to Gradescope.
+
+General homework expectations:
+\begin{itemize}
+    \item Homework should be typeset using LaTex.
+    \item Answers should be in complete sentences and proofread.
+    \item You will not plagiarize, nor will you share your written solutions
+        with classmates.
+    \item List collaborators at the start of each question using the
+        \texttt{collab} command.
+    \item Put your answers where the \texttt{todo} command currently is (and
+        remove the \texttt{todo}, but not the word \texttt{Answer}).
+    \item If you are asked to come up with an algorithm, you are
+        expected to give an algorithm that beats the brute force (and, if possible, of
+        optimal time complexity). With your algorithm, please provide the following:
+        \begin{itemize}
+            \item \emph{What}: A prose explanation of the problem and the algorithm,
+                including a description of the input/output.
+            \item \emph{How}: Describe how the algorithm works, including giving
+                psuedocode for it.  Be sure to reference the pseudocode
+                from within the prose explanation.
+            \item \emph{How Fast}: Runtime, along with justification.  (Or, in the
+                extreme, a proof of termination).
+            \item \emph{Why}: Statement of the loop invariant for each loop, or
+                recursion invariant for each recursive function.
+        \end{itemize}
+\end{itemize}
+
+
+\collab{\todo{}}
+\nextprob{}
+
+The \texttt{rand()} function in the standard C library returns a
+uniformly random number in \texttt{[0,RANDMAX-1]}. Does \texttt{rand}()$\mod n$
+generate a number uniformly distributed in $[0,n-1]$? (Prove or disprove).
+
+% Note I: This is the second variant in EPI 5.12.
+
+
+
+\collab{\todo{}}
+\nextprob{}
+
+Algorithms where we use randomization to find a deterministic answer are known
+as Las Vegas algorithms.  Monte Carlo algorithms also use randomization, but
+might not always give the right answer; however, they either have a high
+probability of being correct or close to correct.
+
+\begin{enumerate}[(a)]
+    \item Give a Monte Carol algorithm to estimate~$\pi$.
+    \item Let $n$ be the number of random numbers used by your algorithm.
+        Explain why as $n \to \infty$, the expectation of the output for your
+        algorithm is~$\pi$.
+    \item Implement this algorithm and plot a line graph of
+        the values returned for at least $10$ values of~$n$.
+\end{enumerate}
+
+Note: Assume that there is a function \texttt{randReal}$[a,b]$ that returns a random
+real number between $a$ and $b$, iid from the uniform distribution over the
+interval $[a,b]$.
+
+
+
+\collab{\todo{}}
+\nextprob{}
+
+Choose an algorithm that you analyzed on a homework in this class (can be this
+HW or a previous one).  Suppose you are a journalist writing about this
+break-through algorithm and write a one-page summary of the algorithm for a
+general audience.  Describing the problem that this algorithm solves and the
+applications of the problem should be highlighted (feel free to do some
+research).  Detail of the algorithm and proofs of correctness or runtime should
+be only given at a very high level.
+
+\paragraph{Answer}
+\todo{answer here}
+
+
+
+\collab{\todo{}}
+\nextprob{Removing an Edge}
+
+Chapter 8, Question 4, Part(a)
+
+
+\collab{\todo{}}
+\nextprob{}
+
+Chapter 10, Question 4, (Opposing Edges)
+
+\paragraph{Answer}
+\todo{answer here}
+
+\collab{\todo{}}
+\nextprob{}
+
+Chapter 11, Question 6, (Mini-Golf)
+
+\paragraph{Answer}
+\todo{answer here}
+
+
+
+
+
+
+\end{document}
