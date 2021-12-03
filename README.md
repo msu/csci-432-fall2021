@@ -38,7 +38,7 @@ this state.
 To learn more about Montana Indians, I suggest starting with the following
 pamphlet:
 [Essential Understandings Regarding Montana
-Indian](http://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf)
+Indians](http://opi.mt.gov/Portals/182/Page%20Files/Indian%20Education/Indian%20Education%20101/essentialunderstandings.pdf)
 
 ## Course Outcomes and Objectives
 
