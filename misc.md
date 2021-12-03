@@ -107,7 +107,7 @@ Tuesday, November 16, 2021 from 5:00pm to 6:00pm
 19. Talk on [The Analysis of Binary File Security Using a Hierarchical Quality Model](https://www.montana.edu/calendar/events/38832)  
     Friday, December 3, 2021 from 2:00pm to 3:00pm
     Write-up due: 10 December 2021.
-20. Attend the job talk by Dr. Ann marie Reinhold on Improving Research Design
+20. Attend the job talk by Dr. Ann Marie Reinhold on Improving Research Design
     with Data Science.  In the reflection, discuss the connections between data
     science and computer science.  Questions to consider are: what is data
     science? how is computer science related to data science? What did you learn
