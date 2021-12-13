@@ -235,13 +235,13 @@ on source material that is not expressly acknowledged) is considered plagiarism.
 By participating in this class, you agree to abide by the Student Code of
 Conduct.  This includes the following academic expectations:
 
-- be prompt and regular in attending classes;
-- be well-prepared for classes;
-- submit required assignments in a timely manner;
-- take exams when scheduled, unless rescheduled under 310.01;
-- act in a respectful manner toward other students and the instructor and in a
+- Be prompt and regular in attending classes;
+- Be well-prepared for classes;
+- Submit required assignments in a timely manner;
+- Take exams when scheduled, unless rescheduled under 310.01;
+- Act in a respectful manner toward other students and the instructor and in a
   way that does not detract from the learning experience; and
-- make and keep appointments when necessary to meet with the instructor. 
+- Make and keep appointments when necessary to meet with the instructor. 
 
 
 ### MSU Drug and Alcohol Policies
