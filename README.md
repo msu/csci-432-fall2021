@@ -223,8 +223,8 @@ appropriate citation of sources and the respect and recognition of others'
 academic endeavors.
 
 Plagiarism will not be tolerated in this course. According to the Merriam-Webster
-dictionary, plagiarism is `the act of using another person's words or ideas
-without giving credit to that person.'  Proper credit means describing all
+dictionary, plagiarism is "the act of using another person's words or ideas
+without giving credit to that person."  Proper credit means describing all
 outside resources (conversations, websites, etc.), and explaining the extent to
 which the resource was used.  Penalties for plagiarism at MSU include (but are
 not limited to) failing the assignment, failing the class, or having your degree
