@@ -223,8 +223,8 @@ appropriate citation of sources and the respect and recognition of others'
 academic endeavors.
 
 Plagiarism will not be tolerated in this course. According to the Merriam-Webster
-dictionary, plagiarism is `the act of using another person's words or ideas
-without giving credit to that person.'  Proper credit means describing all
+dictionary, plagiarism is "the act of using another person's words or ideas
+without giving credit to that person."  Proper credit means describing all
 outside resources (conversations, websites, etc.), and explaining the extent to
 which the resource was used.  Penalties for plagiarism at MSU include (but are
 not limited to) failing the assignment, failing the class, or having your degree
@@ -235,13 +235,13 @@ on source material that is not expressly acknowledged) is considered plagiarism.
 By participating in this class, you agree to abide by the Student Code of
 Conduct.  This includes the following academic expectations:
 
-- be prompt and regular in attending classes;
-- be well-prepared for classes;
-- submit required assignments in a timely manner;
-- take exams when scheduled, unless rescheduled under 310.01;
-- act in a respectful manner toward other students and the instructor and in a
+- Be prompt and regular in attending classes;
+- Be well-prepared for classes;
+- Submit required assignments in a timely manner;
+- Take exams when scheduled, unless rescheduled under 310.01;
+- Act in a respectful manner toward other students and the instructor and in a
   way that does not detract from the learning experience; and
-- make and keep appointments when necessary to meet with the instructor. 
+- Make and keep appointments when necessary to meet with the instructor. 
 
 
 ### MSU Drug and Alcohol Policies
