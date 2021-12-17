@@ -364,8 +364,7 @@ Each week, we assign:
 
 ### Week 16 (6,8,10 December)
 - Final Project Presentations this week!
-- Topics: TODO 
-- Reading: TODO 
+- Project videos: [M1](https://montana.techsmithrelay.com/UYlQ), [M2](https://youtu.be/TEpW-c2rck4), [M3](https://www.youtube.com/watch?v=mURJJPQOnTA), [W2](https://streamable.com/zizkea), [F1](https://youtu.be/_QCWBZ_3Ci0)
 
 ### Week 17 (Finals Week)
 - We meet Wednesday, 15 December, 14:00-15:50.
